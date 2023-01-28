@@ -4,3 +4,7 @@
 
 
 #cmakedefine USE_MYMATH
+
+//检查是否有指定函数
+#cmakedefine HAVE_LOG
+#cmakedefine HAVE_EXP
